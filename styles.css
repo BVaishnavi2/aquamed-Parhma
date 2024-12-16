@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+  }
+  
+  header {
+    background: #0077b6;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    background: #023e8a;
+    padding: 0.5rem;
+  }
+  
+  nav a {
+    color: #fff;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background: url('../images/banner.jpg') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  footer {
+    background: #03045e;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
